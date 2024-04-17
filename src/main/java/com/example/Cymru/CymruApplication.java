@@ -8,6 +8,7 @@ public class CymruApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CymruApplication.class, args);
+
 	}
 
 }
